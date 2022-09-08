@@ -1,4 +1,4 @@
-I"Å<p>This is a sample post.<br />
+I"ö<p>This is a sample post.<br />
 <dfn info="You can add extra information">Hover</dfn> me.</p>
 
 <h2 id="header">Header</h2>
@@ -32,7 +32,7 @@
 
 <p>A C Example:</p>
 
-<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include &lt;stdio.h&gt;
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
 </span><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
 <span class="p">{</span>
     <span class="c1">// Confucius</span>
