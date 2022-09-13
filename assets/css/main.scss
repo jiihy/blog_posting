@@ -6,6 +6,12 @@
 @import 'code_style';
 @import 'flexible';
 
+// add font style
+@font-face {
+    font-family: 'NanumSquare';
+    @import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+}
+
 
 /* 0. Variables
    ========================================================================== */
@@ -111,7 +117,7 @@ body {
     height: 100%;
     font-weight: normal;
     font-style: normal;
-    font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'NanumSquare', -apple-system, BlinkMacSystemFont, 'Titillium Web', "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     margin: 0;
     padding: 0;
     background-color: var(--bg_color);
@@ -322,11 +328,14 @@ img {
 }
 
 .header_circle {
+    display: inline-block;
     border: none;
     box-sizing: border-box;
     height: 7rem;
     width: 7rem;
     border-radius: 50%;
+    background: url(https://i.pinimg.com/originals/8d/b5/ef/8db5efdbe3f36746b18f7779c04b2d58.gif);
+    background-size: contain;
 
     img {
         @extend .header_circle;
@@ -560,7 +569,7 @@ img {
 
 .post_content {
     font-size: 0.95rem;
-    line-height: 1.5rem;
+    line-height: 1.4rem;
     color: var(--post_text);
 
     h1,
@@ -610,7 +619,7 @@ img {
         color: var(--inlinecode_text);
         padding: .1em .4em;
         border-radius: 5px;
-        font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+        font-family: 'NanumSquare', Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
         font-size: .85rem;
     }
 
