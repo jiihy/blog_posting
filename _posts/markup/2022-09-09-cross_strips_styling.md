@@ -1,5 +1,5 @@
 ---
-title: 리스트 빈 태그 없이 유연한 스타일링 입히기
+title: 리스트 빈 태그 없이 유연한 스타일링 주는 법
 categories: [markup]
 comments: true
 ---
