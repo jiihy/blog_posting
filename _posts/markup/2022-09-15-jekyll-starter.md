@@ -1,5 +1,5 @@
 ---
-title: 지킬 블로그 로컬로 실행하여 스타일 커스텀 하기
+title: jekyll serve 오류 해결하고 로컬로 실행하기
 categories: [markup]
 comments: true
 ---
