@@ -12,7 +12,8 @@ comments: true
 [ 성과 ] 뉴욕 진출 ...?!
 ```
 
-https://postfiles.pstatic.net/MjAyMjA3MDVfMjk3/MDAxNjU3MDE0NDE4NDI3.agjpWrp3io406p0qo2zrB6yCU6Qad-hbuzOHSZlAZBEg.J80X8fHwW62ct9PbjeGeloaCruY7LWvyzQKky6HtnQcg.JPEG.jiihy/SE-c0c4e8c1-c2b4-4e58-9bdc-a5b8916b5977.jpg?type=w966
+https://blogfiles.pstatic.net/MjAyMjA3MDVfMjk3/MDAxNjU3MDE0NDE4NDI3.agjpWrp3io406p0qo2zrB6yCU6Qad-hbuzOHSZlAZBEg.J80X8fHwW62ct9PbjeGeloaCruY7LWvyzQKky6HtnQcg.JPEG.jiihy/SE-c0c4e8c1-c2b4-4e58-9bdc-a5b8916b5977.jpg
+
 `뉴욕 Soul Night 행사에 전시된 샤마고치 (쩌렁쩌렁)`
 
 <br>
@@ -24,6 +25,7 @@ https://postfiles.pstatic.net/MjAyMjA3MDVfMjk3/MDAxNjU3MDE0NDE4NDI3.agjpWrp3io40
 <br><br>
 
 > 디자인
+
 https://postfiles.pstatic.net/MjAyMjA3MDVfMTU2/MDAxNjU3MDE2NDUyOTU3.tp4Hkyg2C956Cm1VUnkJnPqC6aN2i8KE1Er4D4is-nog.1E1em2p4b-sQV4EzV2GJRBPTssTdgzQpV1k-aaxhCnsg.PNG.jiihy/0867_(1).png?type=w966
 https://postfiles.pstatic.net/MjAyMjA3MDVfMjI1/MDAxNjU3MDE2NDUzMjQw.vVKKe8UhsHS5X7lBxajn1jNJzse4fwT4ikuOtHHAdNsg.hxAUvlhV-gITzJxtAwVyTOgy_yVbaW0rZhkXEjF7Rg4g.PNG.jiihy/0868.png?type=w966
 
@@ -35,9 +37,11 @@ https://postfiles.pstatic.net/MjAyMjA3MDVfMjI1/MDAxNjU3MDE2NDUzMjQw.vVKKe8UhsHS5
 앞서 밝혔듯 우리는 같은 회사에 다니며 인터넷 웹사이트를 구현하는 일을 한다. J언니는 우리 회사의 베테랑 에이스다. (팀장님이 이렇게 말하심) 샤마고치의 개발과 저장소 관리는 베테랑 에이스 J언니가 담당했다. 커리어 스터디 목적의 프로젝트인 만큼 회사에서 써보지 않았던, 그러나 요즘 업계에서 너무나 중요한 'React'라는 프레임워크로 만들었다. J언니에게 "이러이러한 움직임을 넣으면 귀여울 것 같아"라고 하면 뚝딱뚝딱 구현해서 짠하고 보여준다. 나는 코드를 엉금엉금 따라가며 테스트하고 스타일 수정등을 했다. 버튼을 누르면 좌우로 이동하고 점프하며 말까지 하는 기능은 구글링으로 학습해 넣었다. 핀을 뽑아야 시작하는 화면전환부터 걸어갈 때 배경 이동, 점프 시 그림자 디테일과 하트표까지 부릴 수 있는 재주는 최선을 다해 부렸다고 해야 할까? 팀원들과 토론하며 넣기도, 빼기도 한 이 작업에 애정이 담기지 않을 수가 없다. 
 
 https://postfiles.pstatic.net/MjAyMjA3MDZfNDgg/MDAxNjU3MDk1NDI4MTg2.vUNnoxBFOOvzyGzhr_Zww2xgOEiTmVG4a_r-hmHBZTcg.LzlZo1jsfDgzIXExlhWCUB-kKSO_fo-zcj7XQ2hJdVIg.PNG.jiihy/image.png?type=w966
+
 `우리 저장소!`
 
 우리는 멈춰있는 사진뿐인 NFT에 살아있는 생명력을 부여했다. 꼬물꼬물 움직이는 나만의 고스트라니 얼마나 귀여운가! 이를 휴대폰이나 스마트워치 배경화면으로 설정하니 우리만의 PFP NFT(profile picture nft)로도 사용할 수 있었다. 브루클린 프로젝트 때 만난 신혜님(샤고스 캡틴) 또한 샤마고치를 애플워치 배경화면으로 설정했다고 하셨다👍
+
 https://postfiles.pstatic.net/MjAyMjA3MDVfNCAg/MDAxNjU3MDE1MzUzMTA0.BoPMTVBuHyAZ5aMwgKS3vGisM5iCGUw1G2tt5sZLYXUg.azuBqg87t_mgZqUnloT8tus6tkaBsCmRtyIH0Ejee2Eg.JPEG.jiihy/IMG_5097.jpg?type=w966
 https://postfiles.pstatic.net/MjAyMjA3MDVfMTY0/MDAxNjU3MDE1MzUzMTY3.8AbeDqP7OUyQVkzCoIlwkCdO1kmO5p-TGpMJNwbHje0g.vSlxUQvOmZgy8Dy267KSZxY4IIXGun7zQ6kO6_ZG7a8g.JPEG.jiihy/IMG_5096.jpg?type=w966
 https://postfiles.pstatic.net/MjAyMjA3MDVfNjkg/MDAxNjU3MDE1MzUzMjM3.DjrAJiVcaQMZmN8he_t2uz6ErcfNdOqWjV7N6kqQzkMg.wjvF8tc2vKAfbUCR7MpQpFtAczTFAOfvYGrEoRMRTxsg.JPEG.jiihy/IMG_5095.jpg?type=w966
@@ -47,17 +51,25 @@ https://postfiles.pstatic.net/MjAyMjA3MDVfNjkg/MDAxNjU3MDE1MzUzMjM3.DjrAJiVcaQMZ
 샤마고치 공식 홈페이지와 등록되지 않은 번호는 물음표 고스트가 뜨도록 설정했고, 신청받은 고스트는 커스텀 하여 홈페이지 고유 링크로 등록했다. 약 일주일 동안 23명의 홀더분들이 구매하여 총 208KLAY의 수익을 얻었다. (당시 1klay=800원)
 
 https://postfiles.pstatic.net/MjAyMjA3MDZfOTgg/MDAxNjU3MDk3MjYxNTYy.zncU0Y7P-e36Cdu8p8g3jB6uiEfmb-C2edcyskhOtS0g.Os8hh7muA-Rho3WUODE6toz5HfR-yLTArk8QclyK4_cg.JPEG.jiihy/IMG_F3A664F437EB-1.jpeg?type=w966
+
 우리의 프로젝트는 '오설록 티하우스 아모레 성수점'에서 많은 사람에게 노출되기도 하고,
+
 https://postfiles.pstatic.net/MjAyMjA3MDZfMjM3/MDAxNjU3MDk3MTMyODMy.vOlvfV2WoH7pOTWZdc6GepPd6hX2fQxutJeSwbtOfEog.aC2wF8YcKQ4SBPwS_0RaASXn9cTGNrJmAHssUnZV4ZYg.JPEG.jiihy/IMG_2454.jpg?type=w966
 
 고객참여 커뮤니티 성공 사례로 Enterprise 블록체인 ChainZ 방송에 진출했으며,
+
 https://postfiles.pstatic.net/MjAyMjA3MDZfODUg/MDAxNjU3MTAwODI3MTkz.LWenz3xPZSbkufQWlmvbu0T_p-g5fWM4XVRONYeqj9Ug.pPE3wBvIW-r7LcZP7Bll5rbE98Cn7mYqCwKH_oayKz8g.JPEG.jiihy/IMG_5108.jpg?type=w966
+
 브루클린 상공회의소 회의실에서 상공회의소장 Randy에게 직접 소개하는 영광과,
+
 https://postfiles.pstatic.net/MjAyMjA3MDZfODMg/MDAxNjU3MDk5ODc4NDM0.mEwO1PncM1qH9XTuV3d1lTQB3pWIsayLy06nFBPw8Rkg.be7p7aBGGZf3h1H99f7Gy6XguhClIb1nnVPZh4ppoKwg.JPEG.jiihy/SE-2dd6dee6-9321-4a2a-8327-b277f16afbcd.jpg?type=w966
+
 미국 뉴욕 브루클린에서 열린 'Soul Night'이라는 NFT 행사에 전시되어 세계인의 귀여움을 받기도 했다. 😋
+
 https://postfiles.pstatic.net/MjAyMjA3MDZfMTU3/MDAxNjU3MDk3OTU3MDI1.OeUWma5VIIv6-myfbxAZJn56R9zhqHY-xexpWT1ObA0g.XA_66UObhskdJqZVrjTHv7HSMe8-RFxopvyqiiLX-OAg.JPEG.jiihy/IMG_3555.jpg?type=w966
 
 Soul night 주최사의 개발자님과 앞으로의 샤마고치에 대해 이야기를 나누는 값진 시간도 가졌다. 
+
 https://postfiles.pstatic.net/MjAyMjA3MDZfODAg/MDAxNjU3MDk4MjQ3NjI0.MQP905gJ0hG-yvuWlEx6xS23e4R5Rnm86XMuFaePfhkg.-pJoJ4fAT7VJep3RwjI8XEMUw9wRQ64ngwyGpr5f6Ucg.JPEG.jiihy/IMG_3804.jpg?type=w966
 
 앞으로 샤마고치는 어떻게 변화할까?
