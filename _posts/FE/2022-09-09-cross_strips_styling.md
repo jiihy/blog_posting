@@ -1,12 +1,12 @@
 ---
 title: 리스트 빈 태그 없이 유연한 스타일링 주는 법
-categories: [markup]
+categories: [FE]
 comments: true
 ---
 
 > 오늘 만들어볼 리스트
 
-<img src="../assets/img/markup1_1.png" alt="리스트에 테두리 스타일을 적용한 사진">
+<img src="../assets/img/FE1_1.png" alt="리스트에 테두리 스타일을 적용한 사진">
 
 
 <br>
@@ -56,7 +56,7 @@ comments: true
 }
 ```
 
-<img src="../assets/img/markup1_2.png" alt="기본 보더 스타일을 입힌 표">
+<img src="../assets/img/FE1_2.png" alt="기본 보더 스타일을 입힌 표">
 
 #### 2. 리스트가 홀수개일 경우
 이때 nth-last-child의 등장! 리스트 마지막 줄에 위치하는 홀수 아이템의 border-bottom을 없애준다.
@@ -73,7 +73,7 @@ comments: true
 }
 ```
 
-<img src="../assets/img/markup1_3.png" alt="기본 보더 스타일을 입힌 표">
+<img src="../assets/img/FE1_3.png" alt="기본 보더 스타일을 입힌 표">
 
 #### 3. 리스트가 짝수개일 경우
 마지막 줄에 위치하는 짝수 아이템의 border-bottom을 없애고, 마지막 줄에 위치하는 홀수 아이템(뒤에서 두 번째)의 border-bottom도 없애기!
@@ -97,7 +97,7 @@ comments: true
 }
 ```
 
-<img src="../assets/img/markup1_1.png" alt="리스트에 테두리 스타일을 적용한 사진">
+<img src="../assets/img/FE1_1.png" alt="리스트에 테두리 스타일을 적용한 사진">
 
 <br>
 scss를 예쁘게 정리한 완성본
@@ -115,7 +115,7 @@ scss를 예쁘게 정리한 완성본
    }
 }
 ```
-<img src="../assets/img/markup1_4.gif" alt="리스트에 테두리 스타일을 적용한 사진">
+<img src="../assets/img/FE1_4.gif" alt="리스트에 테두리 스타일을 적용한 사진">
 빈 태그로부터 자유로운 마크업 완성 -*
 
 ----

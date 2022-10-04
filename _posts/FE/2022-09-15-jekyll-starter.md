@@ -1,6 +1,6 @@
 ---
 title: jekyll serve 오류 해결하고 로컬로 실행하기
-categories: [markup]
+categories: [FE]
 comments: true
 ---
 
