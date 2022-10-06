@@ -256,7 +256,7 @@ __double underscores__ <br>
 - 앞뒤로 두줄 이상 띄어야 표로 인식함 <br>
 - 그렇지 않은 경우에는 텍스트로 인식하여 노출 <br>
 
-table 생성 사이트 : https://www.tablesgenerator.com/markdown_tables
+[table 생성 사이트](https://www.tablesgenerator.com/markdown_tables)
 
 
 ----
