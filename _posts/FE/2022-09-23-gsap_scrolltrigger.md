@@ -1,5 +1,5 @@
 ---
-title: [JavaScript] Gsap 설치와 ScrollTrigger 기법
+title: JavaScript- Gsap 설치와 ScrollTrigger 기법
 categories: [FE]
 comments: true
 ---

@@ -61,7 +61,7 @@ rbenv 1.2.0
 - 이제 rbenv를 사용해서 ruby 가상환경을 설치하고, 최신 버전인 3.0.0을 설치한다. 그리고 3.0.0버전을 global로 세팅해주자
 
 ```html
-$ rvenb install 3.0.0
+$ rbenv install 3.0.0
    ...
    Installed ruby-3.0.0 to /Users/dol/.rbenv/versions/3.0.0
 
@@ -95,3 +95,9 @@ $rbenv versions
 
 #### 한 줄 소감
 왜 jekyll serve는 안되고 앞에 bundle exec를 덧붙여야만 작동되는지 아직은 모르겠어서 영 찝찝하다. 그래도 일단은 upload 파일로 서버에 올려서 산출물을 확인했던 비효율적인 방법에서 벗어난 것만 해도 행복하다! 조만간 구선생님을 통해 그 이유에 대해 파헤쳐서 추가 포스팅 해야겠다.
+
+
+----
+2022년 10월 18일 화요일 
+갑자기 버전이 맞지 않는다는 오류로 라이브 접속이 되지 않아 **rbenv를 이용해 오류 풀어보기**부터 재설치하여 해결했다. <br>
+명령어는 여전히 `bundle exec jekyll serve`
