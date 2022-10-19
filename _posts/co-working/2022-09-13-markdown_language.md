@@ -183,6 +183,26 @@ function randomNumber(){ //랜덤숫자 생성
 init();
 ```
 
+## 취소표
+이탤릭체와 두껍게를 같이 사용할 수 있다.
+ 
+```
+_This will also be italic_ //기울여쓰기(italic)
+**This will also be bold** //두껍게쓰기(bold)
+~~This is canceled~~ //취소선
+_You **can** ~~combine~~ them_
+```
+ 
+결과물<br>
+_This will also be italic_
+
+**This will also be bold** 
+
+~~This is canceled~~
+
+_You **can** ~~combine~~ them_
+ 
+ 
 ## 수평선
 
 ```
