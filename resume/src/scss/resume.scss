@@ -1,0 +1,13 @@
+@charset 'UTF-8';
+
+// sprite
+@import 'import/_sprite_maps';
+@import 'import/_sprite_mixin';
+
+// reset
+@import 'common/base';
+@import 'common/mixin';
+
+@import 'import/layout'; // header,snb 등 스타일
+@import 'common/spot_bg'; // 스팟 영역 스타일
+@import 'import/main'; // 작업 스타일

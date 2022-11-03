@@ -1,0 +1,109 @@
+@charset "UTF-8";
+@font-face{
+	font-family:'NanumSquareL';
+	src:url('../fonts/NanumSquareL.eot');
+	src:local('NanumSquareL'), url('../fonts/NanumSquareL.eot?#iefix') format('embedded-opentype') ,
+		url('../fonts/NanumSquareL.woff') format('woff'),
+		url('../fonts/NanumSquareL.ttf') format('truetype'),
+}
+@font-face{
+	font-family:'NanumSquareR';
+	src:url('../fonts/NanumSquareR.eot');
+	src:local('NanumSquareR'), url('../fonts/NanumSquareR.eot?#iefix') format('embedded-opentype') ,
+		url('../fonts/NanumSquareR.woff') format('woff'),
+		url('../fonts/NanumSquareR.ttf') format('truetype'),
+}
+@font-face{
+	font-family:'NanumSquareB';
+	src:url('../fonts/NanumSquareB.eot');
+	src:local('NanumSquareB'), url('../fonts/NanumSquareB.eot?#iefix') format('embedded-opentype') ,
+		url('../fonts/NanumSquareB.woff') format('woff'),
+		url('../fonts/NanumSquareB.ttf') format('truetype'),
+}
+@font-face{
+	font-family:'NanumSquareEB';
+	src:url('../fonts/NanumSquareEB.eot');
+	src:local("NanumSquareEB"), url('../fonts/NanumSquareEB.eot?#iefix') format('embedded-opentype') ,
+		url('../fonts/NanumSquareEB.woff') format('woff'),
+		url('../fonts/NanumSquareEB.ttf') format('truetype'),
+}
+
+body,
+h1, h2, h3, h4, h5, h6, 
+ul, ol, dl, dd, input{
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    font-family: 'NanumSquareR','나눔스퀘어',sans-serif; 
+}
+
+html,body {
+	min-height: 100%;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+em {
+    font-style: normal;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+em {
+    font-style: normal;
+}
+
+a {
+    color:inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+fieldset {
+    border: 0;
+}
+
+button{
+    background: none;
+    border:none;
+    box-shadow:none;
+    border-radius:0; 
+    padding:0; 
+    overflow:visible; 
+    cursor:pointer}
+
+
+.blind {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+}
+
+.link {
+    display: block;
+}
+//reset css 영역
+
+.fp-watermark{
+    display: none !important;
+}

@@ -1,0 +1,112 @@
+
+// Sprites Map
+$sp_application: (
+	name: 'sp_application',
+	width: 272px,
+	height: 222px,
+	image: '../img/sp_application.png',
+	sprites: (
+	icon-calender: (
+			offset-x: -174px,
+			offset-y: -174px,
+			width: 40px,
+			height: 40px,
+		),
+		icon-search: (
+			offset-x: 0px,
+			offset-y: 0px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-create-black: (
+			offset-x: -58px,
+			offset-y: -116px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-create: (
+			offset-x: 0px,
+			offset-y: -58px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-order-black: (
+			offset-x: -58px,
+			offset-y: -58px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-order: (
+			offset-x: -116px,
+			offset-y: 0px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-payment-black: (
+			offset-x: -116px,
+			offset-y: -58px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-payment: (
+			offset-x: 0px,
+			offset-y: -116px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-productlist-black: (
+			offset-x: -58px,
+			offset-y: 0px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-productlist: (
+			offset-x: -116px,
+			offset-y: -116px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-registration-black: (
+			offset-x: -174px,
+			offset-y: 0px,
+			width: 48px,
+			height: 48px,
+		),
+		icon-snb-registration: (
+			offset-x: -174px,
+			offset-y: -58px,
+			width: 48px,
+			height: 48px,
+		),
+		pagenation_next_btn: (
+			offset-x: -174px,
+			offset-y: -116px,
+			width: 48px,
+			height: 48px,
+		),
+		pagenation_prev_btn: (
+			offset-x: 0px,
+			offset-y: -174px,
+			width: 48px,
+			height: 48px,
+		),
+		pop_close_btn: (
+			offset-x: -58px,
+			offset-y: -174px,
+			width: 48px,
+			height: 48px,
+		),
+		selectric-dropdown: (
+			offset-x: -116px,
+			offset-y: -174px,
+			width: 48px,
+			height: 48px,
+		),
+		tooltip_close_btn: (
+			offset-x: -232px,
+			offset-y: 0px,
+			width: 40px,
+			height: 40px,
+		),
+	)
+);
