@@ -12,7 +12,7 @@ comments: true
 [ 성과 ] 뉴욕 진출 ...?!
 ```
 
-<img src="../../assets/img/shama01.jpg" width="600px">
+<img src="../assets/img/shama01.jpg" width="600px">
 
 `뉴욕 Soul Night 행사에 전시된 샤마고치 (쩌렁쩌렁)`
 
@@ -26,8 +26,8 @@ comments: true
 
 > 디자인
 
-<img src="../../assets/img/shama02.png" width="300px" align="left">
-<img src="../../assets/img/shama03.png" width="300px">
+<img src="../assets/img/shama02.png" width="300px" align="left">
+<img src="../assets/img/shama03.png" width="300px">
 
 우리는 기존 샤고스 이미지를 한 번 더 변형해 귀엽게 픽셀화시켰다. 이 과정은 샤마고치 팀 디자이너 h가 맡아주었다. h는 처음에는 팀원도 홀더도 아니었으나, 나와 J언니가 크기를 줄였다 키워서 만든 픽셀괴물을 보고 '아 이건 좀..' 싶었는지 몇 번 작업을 도와줬다. 그러다 갑자기 5마리 고스트의 임보인이 되더니 샤마고치 멤버가 되었다. h에게 작업을 맡길 땐 누끼본도 필요 없이 고유번호만 있으면 된다. 픽셀을 직접 찍어 그려내기 때문이다. 우리는 첫 결과물을 본 순간부터 100% 믿고 맡길 수 있었다.
 
@@ -37,41 +37,41 @@ comments: true
 
 앞서 밝혔듯 우리는 같은 회사에 다니며 인터넷 웹사이트를 구현하는 일을 한다. J언니는 우리 회사의 베테랑 에이스다. (팀장님이 이렇게 말하심) 샤마고치의 개발과 저장소 관리는 베테랑 에이스 J언니가 담당했다. 커리어 스터디 목적의 프로젝트인 만큼 회사에서 써보지 않았던, 그러나 요즘 업계에서 너무나 중요한 'React'라는 프레임워크로 만들었다. J언니에게 "이러이러한 움직임을 넣으면 귀여울 것 같아"라고 하면 뚝딱뚝딱 구현해서 짠하고 보여준다. 나는 코드를 엉금엉금 따라가며 테스트하고 스타일 수정등을 했다. 버튼을 누르면 좌우로 이동하고 점프하며 말까지 하는 기능은 구글링으로 학습해 넣었다. 핀을 뽑아야 시작하는 화면전환부터 걸어갈 때 배경 이동, 점프 시 그림자 디테일과 하트표까지 부릴 수 있는 재주는 최선을 다해 부렸다고 해야 할까? 팀원들과 토론하며 넣기도, 빼기도 한 이 작업에 애정이 담기지 않을 수가 없다. 
 
-<img src="../../assets/img/shama04.png" width="600px">
+<img src="../assets/img/shama04.png" width="600px">
 
 `우리 저장소!`
 
 우리는 멈춰있는 사진뿐인 NFT에 살아있는 생명력을 부여했다. 꼬물꼬물 움직이는 나만의 고스트라니 얼마나 귀여운가! 이를 휴대폰이나 스마트워치 배경화면으로 설정하니 우리만의 PFP NFT(profile picture nft)로도 사용할 수 있었다. 브루클린 프로젝트 때 만난 신혜님(샤고스 캡틴) 또한 샤마고치를 애플워치 배경화면으로 설정했다고 하셨다👍
 
-<img src="../../assets/img/shama05.jpg" width="200px" align="left">
-<img src="../../assets/img/shama06.jpg" width="200px" align="left">
-<img src="../../assets/img/shama07.jpg" width="200px">
+<img src="../assets/img/shama05.jpg" width="200px" align="left">
+<img src="../assets/img/shama06.jpg" width="200px" align="left">
+<img src="../assets/img/shama07.jpg" width="200px">
 
 > 샤마고치 영향력
 
 샤마고치 공식 홈페이지와 등록되지 않은 번호는 물음표 고스트가 뜨도록 설정했고, 신청받은 고스트는 커스텀 하여 홈페이지 고유 링크로 등록했다. 약 일주일 동안 23명의 홀더분들이 구매하여 총 208KLAY의 수익을 얻었다. (당시 1klay=800원)
 
-<img src="../../assets/img/shama08.jpeg" width="600px">
+<img src="../assets/img/shama08.jpeg" width="600px">
 
 우리의 프로젝트는 '오설록 티하우스 아모레 성수점'에서 많은 사람에게 노출되기도 하고,
 
-<img src="../../assets/img/shama09.jpg" width="600px">
+<img src="../assets/img/shama09.jpg" width="600px">
 
 고객참여 커뮤니티 성공 사례로 Enterprise 블록체인 ChainZ 방송에 진출했으며,
 
-<img src="../../assets/img/shama10.jpg" width="600px">
+<img src="../assets/img/shama10.jpg" width="600px">
 
 브루클린 상공회의소 회의실에서 상공회의소장 Randy에게 직접 소개하는 영광과,
 
-<img src="../../assets/img/shama11.jpg" width="600px">
+<img src="../assets/img/shama11.jpg" width="600px">
 
 미국 뉴욕 브루클린에서 열린 'Soul Night'이라는 NFT 행사에 전시되어 세계인의 귀여움을 받기도 했다. 😋
 
-<img src="../../assets/img/shama12.jpg" width="600px">
+<img src="../assets/img/shama12.jpg" width="600px">
 
 Soul night 주최사의 개발자님과 앞으로의 샤마고치에 대해 이야기를 나누는 값진 시간도 가졌다. 
 
-<img src="../../assets/img/shama13.jpg" width="600px">
+<img src="../assets/img/shama13.jpg" width="600px">
 
 앞으로 샤마고치는 어떻게 변화할까?
 
