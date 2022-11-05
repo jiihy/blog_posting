@@ -47,7 +47,7 @@ Fullpage 라이브러리는 3버전 부터 유료로 바뀌었으며 라이센�
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/jquery.fullpage.js"></script> 
 ```
 
-높은 버전이 무조건 좋은 줄 알았는데 이렇게 유료 라이센스 이슈까지 있을줄은 몰랐다. 검색해보니 2.9.7버전은 fullpage github에서 파일로 다운받아 연결하는 방식을 많이 사용하던데, 나는 본가에서 7년된 거북이 윈도우 그램으로 생코딩중이기 때문에 cdn링크를 연결했다. 모두 파일로 연결하길래 없을줄 알았는데 검색하니 나와서 기분좋았음><
+높은 버전이 무조건 좋은 줄 알았는데 이렇게 유료 라이센스 이슈까지 있을줄은 몰랐다. 검색해보니 2.9.7버전은 fullpage github에서 파일로 다운받아 연결하는 방식을 많이 사용하던데, 나는 본가에서 7년된 거북이 윈도우 그램으로 편집기 없이 생코딩중이기 때문에 cdn링크를 연결했다. 모두 파일로 연결하길래 없을줄 알았는데 검색하니 나와서 기분좋았음><
 
 <br><br>
 다 해결된줄 알았으나 fullpage.js를 다운그레이드 하면서 새로운 에러가 생긴다.
@@ -56,7 +56,26 @@ Fullpage 라이브러리는 3버전 부터 유료로 바뀌었으며 라이센�
 fullPage: The option `scrollOverflow:true` requires the file `scrolloverflow.min.js`. Please include it before fullPage.js.
 ```
 
-뭘까???? 밥 먹고 와서 해결해봐야지!
+뭘까???? 밥 먹고 와서 해결해봐야지! 
+<br><br>...<br><br>
+
+다수의 사람들의 행동엔 이유가 있다. 파일로 연결하는 이유는 `scrillOverflow.js`가 포함되어있기 때문이었을까? 
+
+```
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/vendors/scrolloverflow.min.js"></script>
+<script>
+    $(document).ready(function() {
+      $("#fullpage").fullpage({
+        scrollOverflow: true
+      });
+    });
+</script>
+```
+
+이 두 가지를 추가해주니 도합 5개의 에러가 사라졌다. 후련하다 따봉 cdn아 고마워 ~!
+
+
+
 
 참고 링크 :<br>
 https://github.com/alvarotrigo/fullPage.js#options
