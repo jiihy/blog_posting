@@ -63,16 +63,14 @@ fullPage: The option `scrollOverflow:true` requires the file `scrolloverflow.min
 
 ```
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/vendors/scrolloverflow.min.js"></script>
-<script>
-    $(document).ready(function() {
-      $("#fullpage").fullpage({
-        scrollOverflow: true
-      });
-    });
-</script>
 ```
 
-이 두 가지를 추가해주니 도합 5개의 에러가 사라졌다. 후련하다 따봉 cdn아 고마워 ~!
+scrillOverflow.js를 추가해주니 도합 5개의 에러가 사라졌다. 후련하다 따봉 cdn아 고마워 ~! <br><br>
+
+
++<br>
+Fullpage.js can only be initialized once and you are doing it multiple times!<br>
+테스트 하느라 새로고침을 계속 했더니 이 오류도 뜬다. 캐시삭제로 사라지는걸 보니 무거운 라이센스라 과부화가 걸리는 모양이다. fullpage.js는 가벼운 프로젝트에만 사용하기로 하자
 
 
 
