@@ -74,10 +74,31 @@ Fullpage.js can only be initialized once and you are doing it multiple times!<br
 ```
 테스트 하느라 새로고침을 계속 했더니 이 오류도 뜬다. 캐시삭제로 사라지는걸 보니 무거운 라이센스라 과부화가 걸리는 모양이다. fullpage.js는 가벼운 프로젝트에만 사용하기로 하자
 
+<br><br>
+++<br>
+```
+scrolloverflow.js:2736 Uncaught ReferenceError: getPaddings is not defined
+    at Object.update (scrolloverflow.js:2736:45)
+    at n (scrolloverflow.js:2490:47)
+    at HTMLDivElement.<anonymous> (scrolloverflow.js:2524:25)
+    at Function.each (jquery-3.6.1.js:385:19)
+    at jQuery.fn.init.each (jquery-3.6.1.js:207:17)
+    at r (scrolloverflow.js:2516:32)
+    at s [as createScrollBarForAll] (scrolloverflow.js:2438:21)
+    at reBuild (jquery.fullpage.js:466:34)
+    at jquery.fullpage.js:2151:21
+```
 
+윈도우 브라우저에서 리사이징을 할 때 또 다시 이런 무시무시한 에러창이 떴다. 마찬가지로 stackoverflow에 검색했더니 '개발자가 축소버전 업데이트를 깜빡'했다고 한다. scrolloverflow.min.js은 resize 이벤트가 적용되어있지 않기 때문에 리사이징시 에러가 뜬다. scrolloverflow.min.js가 아닌 scrolloverflow.js로 바꿔주니 에러가 사라졌다.<br>
 
+```
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/vendors/scrolloverflow.min.js"></script>
+<!-- 아래 주소로 수정 -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/vendors/scrolloverflow.js"></script>
+```
 
 참고 링크 :<br>
-[fullpage github](https://github.com/alvarotrigo/fullPage.js#options)
-[fullpage 구버전 cdn](https://www.cdnpkg.com/fullPage.js/2.9.7)
-[stackoverflow about http jquery](https://stackoverflow.com/questions/49180591/why-jquery-is-blocked-in-https)
+[fullpage github](https://github.com/alvarotrigo/fullPage.js#options) <br>
+[fullpage 구버전 cdn](https://www.cdnpkg.com/fullPage.js/2.9.7) <br>
+[stackoverflow about http jquery](https://stackoverflow.com/questions/49180591/why-jquery-is-blocked-in-https) <br>
+[scrolloverflow resizing error](https://github.com/alvarotrigo/fullPage.js/issues/3095)
